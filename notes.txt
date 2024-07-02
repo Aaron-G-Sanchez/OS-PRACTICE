@@ -1,8 +1,0 @@
-TODO:
-
-[X]: Read the current working dir.
-[X]: Read the files in the current working dir.
-[X]: Create a new sub dir. 
-[]: Allow flag to dictate the name of the sub dir.
-[]: Add a file to the sub dir.
-[]: Add files with simple boiler plate code.
